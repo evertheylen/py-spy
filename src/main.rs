@@ -17,6 +17,7 @@ extern crate libc;
 #[macro_use]
 extern crate log;
 extern crate memmap;
+extern crate indexmap;
 extern crate proc_maps;
 extern crate regex;
 extern crate tempdir;
